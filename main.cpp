@@ -46,5 +46,8 @@ int main() {
     std::cout << "Count is not between 1 and 5" << std::endl;
     break;
   }
+
+  std::cout << "This is the end of the program!" << std::endl;
+
   return 0;
 }
