@@ -49,5 +49,7 @@ int main() {
 
   std::cout << "This is the end of the program!" << std::endl;
 
+  std::cout << "New feature added" << std::endl;
+
   return 0;
 }
